@@ -1,5 +1,5 @@
 # Definição de variáveis (ambiente “local” do REST Client)
-@base_url = https://scaling-pancake-g45jw47jqpv5hp74j-8080.app.github.dev
+@base_url = https://shady-incantation-xgg4wv7gjgpf6gp5-8080.app.github.dev
 
 ### Inserir nova pessoa
 POST {{ base_url }}/api/pessoas
